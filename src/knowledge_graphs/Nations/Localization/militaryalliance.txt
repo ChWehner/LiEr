@@ -1,0 +1,182 @@
+Nations:
+
+## Label "militaryalliance":
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "relintergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "weightedunvote",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "unweightedunvote",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "commonbloc2",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "relexports",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "independence",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "ngo",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "relstudents",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}

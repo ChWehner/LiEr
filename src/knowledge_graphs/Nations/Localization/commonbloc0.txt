@@ -1,0 +1,182 @@
+Nations
+
+## Label "commonbloc0":
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "timesincewar",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "negativebehavior",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "booktranslations",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "independence",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "ngo",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "blockpositionindex",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "nonviolentbehavior",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "conferences",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}

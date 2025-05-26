@@ -1,0 +1,15 @@
+{
+  "0": {
+    "occurrence": 0,
+    "formattedPath": [
+      [
+        "city",
+        "concept_statehascapital",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  }
+}

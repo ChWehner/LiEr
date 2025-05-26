@@ -1,0 +1,11 @@
+/tests/results/*
+.env
+.DS_Store
+*.pem
+*.pyc
+/agent/__pycache__
+.DS_Store
+/venv/
+.vscode
+/demonstrator/frontend/package.json
+/demonstrator/frontend/package-lock.json

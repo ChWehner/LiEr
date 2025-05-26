@@ -1,0 +1,54 @@
+[general]
+number_of_runs = 10
+prefix = "sports"
+
+[environment]
+knowledge_graph_name="sports"
+inverse_relations=true
+relation_types=[]
+max_degree=200
+prune=true
+
+[reward]
+gamma = 0.99
+lambda_factor = 0.1 
+ 
+
+[interaction]
+interactive = false
+use_entities = false
+top_k = 200 
+feedback_engine="roi"
+error_rate = -1
+pretraining_epochs=0
+patients=1
+fit_reward_epochs = "zero-five-ten-fifteen"
+embedding_size = 16
+mlp_size = 32
+dropout = 0.43
+learning_rate = 0.003
+goal_loss_impact = 0.64
+batch_size = 128
+
+[policy_network]
+hidden_size = 64
+embedding_size = 64
+mlp_size = 256  
+use_entites = false
+dropout=0.2
+
+[training]  
+num_epochs = 200
+num_hops = 2
+batch_size = 128
+action_dropout_rate=0.1
+num_rollouts_training = 20
+beta=0.05
+decay_rate=0.9   
+learning_rate=0.001
+
+[evaluation]
+evaluation_frequency = 2
+num_rollouts_test = 20
+use_localization = true
+roi_dir = "localization"

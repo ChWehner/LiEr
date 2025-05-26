@@ -1,0 +1,14 @@
+egypt	0	nation
+china	1	nation
+cuba	2	nation
+netherlands	3	nation
+india	4	nation
+usa	5	nation
+jordan	6	nation
+burma	7	nation
+brazil	8	nation
+indonesia	9	nation
+poland	10	nation
+uk	11	nation
+ussr	12	nation
+israel	13	nation

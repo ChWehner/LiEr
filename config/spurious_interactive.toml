@@ -1,0 +1,53 @@
+[general]
+number_of_runs = 10
+prefix = "spurious"
+
+[environment]
+knowledge_graph_name="spurious"
+inverse_relations=false
+relation_types=["countryInContinent"]
+max_degree=200
+prune=true
+
+[reward]
+gamma = 0.99
+lambda_factor = 0.1 
+ 
+[interaction]
+interactive = true
+use_entities = false
+top_k = 200 
+feedback_engine="roi"
+error_rate = -1
+pretraining_epochs=0
+patients=1
+fit_reward_epochs = "zero-five-ten"
+embedding_size = 32
+mlp_size = 64
+dropout = 0.1
+learning_rate = 0.01
+goal_loss_impact = 0.5
+batch_size = 64
+
+[policy_network]
+hidden_size = 64
+embedding_size = 64
+mlp_size = 64  
+use_entites = false
+dropout=0.2
+
+[training]  
+num_epochs = 200
+num_hops = 3
+batch_size = 128
+action_dropout_rate=0.1
+num_rollouts_training = 20
+beta=0.05
+decay_rate=0.9   
+learning_rate=0.001
+
+[evaluation]
+evaluation_frequency = 2
+num_rollouts_test = 20
+use_localization = true
+roi_dir = "localization"

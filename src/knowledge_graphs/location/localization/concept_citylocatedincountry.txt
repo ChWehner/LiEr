@@ -1,0 +1,82 @@
+## Label "concept_citylocatedincountry":
+
+{
+  "occurrence": 72,
+  "formattedPath": [
+    [
+      "city",
+      "concept_citycapitalofcountry",
+      "out"
+    ],
+    [
+      "country"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "city",
+      "concept_citylocatedinstate",
+      "out"
+    ],
+    [
+      "stateorprovince",
+      "concept_statelocatedincountry",
+      "out"
+    ],
+    [
+      "country"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "city",
+      "concept_citycapitalofcountry",
+      "out"
+    ],
+    [
+      "island"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "city",
+      "concept_citycapitalofcountry",
+      "out"
+    ],
+    [
+      "geopoliticalorganization"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "city",
+      "concept_statehascapital",
+      "out"
+    ],
+    [
+      "stateorprovince",
+      "concept_statelocatedincountry",
+      "out"
+    ],
+    [
+      "country"
+    ]
+  ]
+}
+

@@ -1,0 +1,280 @@
+## Label "concept_athleteplaysforteam":
+
+{
+  "occurrence": 166,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 31,
+  "formattedPath": [
+    [
+      "coach",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 16,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_personbelongstoorganization",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 16,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam",
+      "concept_athleteplaysforteam",
+      "in"
+    ],
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 14,
+  "formattedPath": [
+    [
+      "personmexico",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 14,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam",
+      "concept_athleteledsportsteam",
+      "in"
+    ],
+    [
+      "athlete",
+      "concept_athleteplaysforteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "male",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "coach",
+      "concept_personbelongstoorganization",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "coach",
+      "concept_coachesteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "personus",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam",
+      "concept_personbelongstoorganization",
+      "in"
+    ],
+    [
+      "coach",
+      "concept_personbelongstoorganization",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "personasia",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "personmexico",
+      "concept_personbelongstoorganization",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam",
+      "concept_coachesteam",
+      "in"
+    ],
+    [
+      "coach",
+      "concept_personbelongstoorganization",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "personaustralia",
+      "concept_athleteledsportsteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "athlete",
+      "concept_coachesteam",
+      "out"
+    ],
+    [
+      "sportsteam"
+    ]
+  ]
+}
+

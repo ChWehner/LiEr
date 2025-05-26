@@ -1,0 +1,22 @@
+knowledge_graph_name="UMLS", 
+inverse_relations=True, 
+relation_types=[],
+                        
+gamma = 0.99, 
+lambda_factor = 0.1, 
+interactive = False, 
+use_entities = False, 
+top_k = 200, feedback_engine="automated", error_rate = -1
+
+hidden_size = 128
+        embedding_size = 128
+        mlp_size = 4*hidden_size                        
+
+ dropout=0.2 (policy network)        
+
+ batch_size = 256
+
+ action_dropout_rate=0.2,
+  beta=0.05,
+            decay_rate=0.9,   
+            learning_rate=0.001,

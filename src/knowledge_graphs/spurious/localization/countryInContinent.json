@@ -1,0 +1,176 @@
+{
+  "1": {
+    "occurrence": 20736,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "2": {
+    "occurrence": 20142,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "3": {
+    "occurrence": 20142,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "4": {
+    "occurrence": 19872,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "5": {
+    "occurrence": 8667,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "inRegion",
+        "out"
+      ],
+      [
+        "region",
+        "regionInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "6": {
+    "occurrence": 8586,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "inRegion",
+        "out"
+      ],
+      [
+        "region",
+        "regionInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "7": {
+    "occurrence": 1404,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "8": {
+    "occurrence": 1404,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "countryInContinent",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+Nations
+
+## Label "dependent":
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "commonbloc1",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "exports3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "relexports",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "independence",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "reltreaties",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "blockpositionindex",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "reldiplomacy",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "embassy",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "commonbloc0",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "timesinceally",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}

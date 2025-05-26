@@ -1,0 +1,102 @@
+{
+  "5": {
+    "occurrence": 312,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "locatedin",
+        "out"
+      ],
+      [
+        "region",
+        "locatedin",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "6": {
+    "occurrence": 312,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "in"
+      ],
+      [
+        "country",
+        "locatedin",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "7": {
+    "occurrence": 312,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "locatedin",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "8": {
+    "occurrence": 312,
+    "formattedPath": [
+      [
+        "country",
+        "neighbor",
+        "out"
+      ],
+      [
+        "country",
+        "locatedin",
+        "out"
+      ],
+      [
+        "region",
+        "locatedin",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  },
+  "9": {
+    "occurrence": 201,
+    "formattedPath": [
+      [
+        "country",
+        "locatedin",
+        "out"
+      ],
+      [
+        "region",
+        "locatedin",
+        "out"
+      ],
+      [
+        "continent"
+      ]
+    ]
+  }
+}

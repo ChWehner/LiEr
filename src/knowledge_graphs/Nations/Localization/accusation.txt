@@ -1,0 +1,452 @@
+Nations
+
+## Label "accusation":
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "relintergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "ngoorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "reltreaties",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "relngo",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "militaryalliance",
+      "out"
+    ],
+    [
+      "nation",
+      "conferences",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "relintergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "ngoorgs3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "reltreaties",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "relngo",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "conferences",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "embassy",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "exports3",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "relexports",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "intergovorgs",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "ngo",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "reldiplomacy",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "timesinceally",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "weightedunvote",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "commonbloc1",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "treaties",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "unweightedunvote",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "negativebehavior",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}
+
+{
+  "formattedPath": [
+    [
+      "nation",
+      "intergovorgs3",
+      "out"
+    ],
+    [
+      "nation",
+      "releconomicaid",
+      "out"
+    ],
+    [
+      "nation"
+    ]
+  ]
+}

@@ -1,0 +1,2143 @@
+{
+  "0": {
+    "occurrence": 70,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "1": {
+    "occurrence": 46,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city"
+      ]
+    ]
+  },
+  "2": {
+    "occurrence": 46,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "3": {
+    "occurrence": 26,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "4": {
+    "occurrence": 26,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "5": {
+    "occurrence": 16,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "6": {
+    "occurrence": 16,
+    "formattedPath": [
+      [
+        "athlete",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "7": {
+    "occurrence": 16,
+    "formattedPath": [
+      [
+        "athlete",
+        "concept_athleteledsportsteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "8": {
+    "occurrence": 14,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "9": {
+    "occurrence": 14,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "10": {
+    "occurrence": 12,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization"
+      ]
+    ]
+  },
+  "11": {
+    "occurrence": 12,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "12": {
+    "occurrence": 11,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city"
+      ]
+    ]
+  },
+  "13": {
+    "occurrence": 11,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city"
+      ]
+    ]
+  },
+  "14": {
+    "occurrence": 11,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "15": {
+    "occurrence": 8,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "16": {
+    "occurrence": 8,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city"
+      ]
+    ]
+  },
+  "17": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "18": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "19": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "20": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "21": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "22": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company"
+      ]
+    ]
+  },
+  "23": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization"
+      ]
+    ]
+  },
+  "24": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "athlete",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "25": {
+    "occurrence": 6,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "26": {
+    "occurrence": 5,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "27": {
+    "occurrence": 5,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "28": {
+    "occurrence": 5,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "29": {
+    "occurrence": 5,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_athleteledsportsteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "30": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "31": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "32": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company"
+      ]
+    ]
+  },
+  "33": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "34": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "35": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "city"
+      ]
+    ]
+  },
+  "36": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "37": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "38": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "39": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "40": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization"
+      ]
+    ]
+  },
+  "41": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization"
+      ]
+    ]
+  },
+  "42": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "43": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "44": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "45": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "professionalorganization",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "46": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "musicartist",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "47": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "publication",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "48": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "49": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "50": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation"
+      ]
+    ]
+  },
+  "51": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation"
+      ]
+    ]
+  },
+  "52": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "53": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "musicartist"
+      ]
+    ]
+  },
+  "54": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "geopoliticallocation"
+      ]
+    ]
+  },
+  "55": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "geopoliticallocation"
+      ]
+    ]
+  },
+  "56": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "creditunion"
+      ]
+    ]
+  },
+  "57": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation"
+      ]
+    ]
+  },
+  "58": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation"
+      ]
+    ]
+  },
+  "59": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation"
+      ]
+    ]
+  },
+  "60": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "creditunion",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company"
+      ]
+    ]
+  },
+  "61": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company"
+      ]
+    ]
+  },
+  "62": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company"
+      ]
+    ]
+  },
+  "63": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "64": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "publication"
+      ]
+    ]
+  },
+  "65": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "66": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "company",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "67": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "68": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "69": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "70": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "71": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "72": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "geopoliticallocation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince"
+      ]
+    ]
+  },
+  "73": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "musicartist",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "74": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_athleteplaysforteam",
+        "in"
+      ],
+      [
+        "athlete",
+        "concept_athleteledsportsteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "75": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "76": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "geopoliticallocation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "77": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_athleteledsportsteam",
+        "in"
+      ],
+      [
+        "athlete",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "78": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "79": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "80": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "radiostation",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "81": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "county"
+      ]
+    ]
+  },
+  "82": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "musicartist"
+      ]
+    ]
+  },
+  "83": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "personus",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "84": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_coachesteam",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "85": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university"
+      ]
+    ]
+  },
+  "86": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "personus",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "87": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "university",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "88": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_athleteledsportsteam",
+        "in"
+      ],
+      [
+        "athlete",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "89": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "personnorthamerica",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "90": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "athlete",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "91": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "professor",
+        "concept_coachesteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "92": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "personmexico",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "93": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "athlete",
+        "concept_athleteplaysforteam",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "94": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "personus",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  },
+  "95": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "personus",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague",
+        "concept_personbelongstoorganization",
+        "in"
+      ],
+      [
+        "person",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam"
+      ]
+    ]
+  },
+  "96": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "coach",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsteam",
+        "concept_athleteplaysforteam",
+        "in"
+      ],
+      [
+        "athlete",
+        "concept_personbelongstoorganization",
+        "out"
+      ],
+      [
+        "sportsleague"
+      ]
+    ]
+  }
+}

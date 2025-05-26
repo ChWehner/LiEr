@@ -1,0 +1,77 @@
+{
+  "0": {
+    "occurrence": 72,
+    "formattedPath": [
+      [
+        "city",
+        "concept_citycapitalofcountry",
+        "out"
+      ],
+      [
+        "country"
+      ]
+    ]
+  },
+  "1": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "city",
+        "concept_citylocatedinstate",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_statelocatedincountry",
+        "out"
+      ],
+      [
+        "country"
+      ]
+    ]
+  },
+  "2": {
+    "occurrence": 3,
+    "formattedPath": [
+      [
+        "city",
+        "concept_citycapitalofcountry",
+        "out"
+      ],
+      [
+        "island"
+      ]
+    ]
+  },
+  "3": {
+    "occurrence": 2,
+    "formattedPath": [
+      [
+        "city",
+        "concept_citycapitalofcountry",
+        "out"
+      ],
+      [
+        "geopoliticalorganization"
+      ]
+    ]
+  },
+  "4": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "city",
+        "concept_statehascapital",
+        "out"
+      ],
+      [
+        "stateorprovince",
+        "concept_statelocatedincountry",
+        "out"
+      ],
+      [
+        "country"
+      ]
+    ]
+  }
+}

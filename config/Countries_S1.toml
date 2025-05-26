@@ -1,0 +1,54 @@
+[general]
+number_of_runs = 10
+prefix = "S1"
+
+[environment]
+knowledge_graph_name="Countries/Countries_S1"
+inverse_relations=true
+relation_types=[]
+max_degree=200
+prune=true
+
+[reward]
+gamma = 0.99
+lambda_factor = 0.05 
+ 
+
+[interaction]
+interactive = false
+use_entities = true
+top_k = 50 
+feedback_engine="automated"
+error_rate = -1
+pretraining_epochs=1
+patients=1
+fit_reward_epochs = "zero"
+embedding_size = 32
+mlp_size = 64
+dropout = 0.1
+learning_rate = 0.01
+goal_loss_impact = 0.1
+batch_size = 64
+
+[policy_network]
+hidden_size = 25
+embedding_size = 25
+mlp_size = 50  
+use_entites = true
+dropout=0.2
+
+[training]  
+num_epochs = 2
+num_hops = 2
+batch_size = 32 
+action_dropout_rate=0.1
+num_rollouts_training = 20
+beta=0.05
+decay_rate=0.9   
+learning_rate=0.001
+
+[evaluation]
+evaluation_frequency = 2
+num_rollouts_test = 20
+use_localization = true
+roi_dir = "localization"

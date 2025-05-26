@@ -1,0 +1,227 @@
+## Label "locatedin":
+
+{
+  "occurrence": 1154,
+  "formattedPath": [
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "region",
+      "locatedin",
+      "in"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 182,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 178,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 178,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 174,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 123,
+  "formattedPath": [
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "region",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 107,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "region",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 106,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "region",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 52,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "in"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+
+{
+  "occurrence": 52,
+  "formattedPath": [
+    [
+      "country",
+      "neighbor",
+      "out"
+    ],
+    [
+      "country",
+      "locatedin",
+      "out"
+    ],
+    [
+      "continent"
+    ]
+  ]
+}
+

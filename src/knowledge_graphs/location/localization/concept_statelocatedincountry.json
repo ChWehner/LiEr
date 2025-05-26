@@ -1,0 +1,38 @@
+{
+  "0": {
+    "occurrence": 4,
+    "formattedPath": [
+      [
+        "stateorprovince",
+        "concept_citylocatedinstate",
+        "in"
+      ],
+      [
+        "city",
+        "concept_citylocatedincountry",
+        "out"
+      ],
+      [
+        "country"
+      ]
+    ]
+  },
+  "1": {
+    "occurrence": 1,
+    "formattedPath": [
+      [
+        "stateorprovince",
+        "concept_statehascapital",
+        "in"
+      ],
+      [
+        "city",
+        "concept_citylocatedincountry",
+        "out"
+      ],
+      [
+        "country"
+      ]
+    ]
+  }
+}

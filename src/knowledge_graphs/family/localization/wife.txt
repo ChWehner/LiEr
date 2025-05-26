@@ -1,0 +1,2102 @@
+## Label "wife":
+
+{
+  "occurrence": 52,
+  "formattedPath": [
+    [
+      "person",
+      "husband",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 14,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 9,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 7,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 7,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 7,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 7,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 6,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 6,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 6,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 5,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 5,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 3,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 2,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "in"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "in"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "in"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "daughter",
+      "out"
+    ],
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "niece",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "brother",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "mother",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "aunt",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "niece",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "son",
+      "in"
+    ],
+    [
+      "person",
+      "sister",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "father",
+      "in"
+    ],
+    [
+      "person",
+      "nephew",
+      "in"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "person",
+      "sister",
+      "out"
+    ],
+    [
+      "person",
+      "uncle",
+      "out"
+    ],
+    [
+      "person",
+      "son",
+      "out"
+    ],
+    [
+      "person"
+    ]
+  ]
+}
+

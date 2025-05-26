@@ -1,0 +1,40 @@
+## Label "concept_statelocatedincountry":
+
+{
+  "occurrence": 4,
+  "formattedPath": [
+    [
+      "stateorprovince",
+      "concept_citylocatedinstate",
+      "in"
+    ],
+    [
+      "city",
+      "concept_citylocatedincountry",
+      "out"
+    ],
+    [
+      "country"
+    ]
+  ]
+}
+
+{
+  "occurrence": 1,
+  "formattedPath": [
+    [
+      "stateorprovince",
+      "concept_statehascapital",
+      "in"
+    ],
+    [
+      "city",
+      "concept_citylocatedincountry",
+      "out"
+    ],
+    [
+      "country"
+    ]
+  ]
+}
+
