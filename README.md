@@ -23,7 +23,6 @@ LiEr matches state-of-the-art performance on standard benchmarks and demonstrate
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Running Experiments](#running-experiments)
 5. [Project Structure](#project-structure)
 6. [Contributing](#contributing)
 7. [Citation](#citation)
