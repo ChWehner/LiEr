@@ -42,8 +42,6 @@ LiEr matches state-of-the-art performance on standard benchmarks and demonstrate
 
 ## Installation
 
-
-   ```
    Install the package in development mode and required dependencies in your virtual environment:
 
    ```bash
